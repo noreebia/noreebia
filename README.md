@@ -1,11 +1,6 @@
-<h1 align="center">Hi, I'm Sue Kim 👋</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Seoul,%20Korea-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Korean-green?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
-
----
 
 ### 👩‍💻 About Me
 
