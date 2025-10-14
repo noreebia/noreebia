@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
-### 👩‍💻 About Me
+### About Me
 
 - Born in **1994**
 - Fluent in **English** and **Korean**
@@ -12,7 +12,7 @@
 
 ---
 
-### 🎮 Interests
+### Interests
 
 - 🏋️‍♀️ Fitness
 - 🥾 Hiking
@@ -21,7 +21,7 @@
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 - ✉️ Email: [suekimdev@gmail.com](mailto:suekimdev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/suekimdev](https://www.linkedin.com/in/suekimdev)
