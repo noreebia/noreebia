@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sue Kim 👋</h1>
 
-<!--
-**noreebia/noreebia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Seoul,%20Korea-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Korean-green?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- Born in **1994**
+- Fluent in **English** and **Korean**
+- Professional **web developer** with **7 years** of experience
+- Interested in **web design** and **video game development**
+- Currently based in **Seoul, Korea**
+
+---
+
+### 🎮 Interests
+
+- 🏋️‍♀️ Fitness
+- 🥾 Hiking
+- 🎮 Video games
+- 📖 Sci-fi novels
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: [suekimdev@gmail.com](mailto:suekimdev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/suekimdev](https://www.linkedin.com/in/suekimdev)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
