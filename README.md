@@ -1,3 +1,4 @@
+
 ### 🧑‍💻 About Me
 
 - Born in **1994**
@@ -23,7 +24,3 @@
 - 💼 LinkedIn: [linkedin.com/in/suekimdev](https://www.linkedin.com/in/suekimdev)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
