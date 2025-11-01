@@ -3,8 +3,8 @@
 
 - Born in **1994**
 - Fluent in **English** and **Korean**
-- Professional **web developer** with **7 years** of experience
-- Interested in **web design** and **video game development**
+- Professional **software engineer** with **7 years** of experience. Currently working as a **full-stack web developer**
+- Outside of web development, currently interested in improving my **web design** and **video game development** skills
 - Currently based in **Seoul, Korea**
 
 ---
