@@ -4,7 +4,7 @@
 - Born in **1994**
 - Fluent in **English** and **Korean**
 - Professional **software engineer** with **7 years** of experience. Currently working as a **full-stack web developer**
-- Currently interested in improving my **web design** skills
+- Recent interests include improving my **web design** skills
 - Currently based in **Seoul, Korea**
 
 ---
